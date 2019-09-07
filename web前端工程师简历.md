@@ -31,8 +31,8 @@
 
 1. 负责公司的SaaS产品-句子秒回的bug修复及需求开发
 2. 主要负责前端开发，有需要时也会用NodeJS编写后端接口。
-3. 项目使用github进行代码管理，主要技术栈：前端框架React，后端NodeJs，数据库为mongodb。
-4. 在项目开发的过程中，我积极与产品、UI交流，提升了沟通能力。在使用github管理项目代码提交pull request的过程中，培养了能够熟练使用git命令行操作的能力，同时严格的代码审核让我有了一定程度的"代码洁癖"。
+3. 项目使用github进行代码管理，主要技术栈：前端框架React，后端NodeJs，前后端均使用了TypeScript,数据库为mongodb。
+4. 在项目开发的过程中，我积极与产品、UI交流，提升了沟通能力。在使用github管理项目代码提交pull request的过程中，培养了能够熟练使用git命令行操作的能力，同时严格的代码审核让我有了一定程度的"代码洁癖"。在解决BUG，开发需求的过程中学到了很多东西。
 
 ## 北京蓝拓扑科技股份有限公司 （2018年7月-2019年7月）
 
@@ -56,11 +56,12 @@
 
 >以下均为我熟练使用的技能
 
-- Web开发：Node
-- web框架：Vue/React
+- Web开发：NodeJs/TypeScript（JavaScript）
+- Web前端： HTML5/CSS(3) 能够熟练布局
+- web前端框架：Vue/React
 - 小程序框架： 原生小程序框架 / Taro
 - 数据库相关：基本SQL语句 / MongoDB
-- 版本管理、文档工具：Svn / Git命令行 / MarkDown
+- 版本管理、文档工具：Svn / Git命令行（能够熟练使用） / MarkDown
 
 # 致谢
 
